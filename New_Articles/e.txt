@@ -1,0 +1,408 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/244751720
+Applications and Market of PVC for Piping Industry
+Article in Polímeros · January 2009
+DOI: 10.1590/S0104-14282009000100014
+CITATIONS
+45
+READS
+12,262
+3 authors, including:
+Some of the authors of this publication are also working on these related projects:
+Polymer Blends View project
+Johnny N. Martins
+Universidade Federal do Rio Grande do Sul
+15 PUBLICATIONS 509 CITATIONS
+SEE PROFILE
+Estevão Freire
+Federal University of Rio de Janeiro
+22 PUBLICATIONS 271 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Estevão Freire on 24 December 2015.
+The user has requested enhancement of the downloaded file.
+58 Polímeros: Ciência e Tecnologia, vol. 19, nº 1, p. 58-62, 2009
+Autor para correspondência: Estevão Freire, Departamento de Engenharia Química, UCS, R. Francisco Getúlio Vargas 1130, Petrópolis, CEP: 95070-560, Caxias do Sul, RS, Brasil. E-mail: efreire@ucs.br
+􀀭􀀥􀀲􀀣􀀡􀀤􀀯􀀬􀀯􀀧􀀩􀀡
+Applications of PVC in Industry
+In terms of revenue generated, PVC is one of the most valuable products of the chemical industry. Globally, over 50% of PVC manufactured is used in construction. As a building material, PVC is cheap and easy to assemble. In recent years, PVC has been replacing traditional building materials such as wood, concrete and clay in many areas. Despite claims that PVC production negatively affects the natural environment and human health, it is still widely used[4].
+There are many uses for PVC. As a rigid plastic, it is used as vinyl siding, magnetic stripe cards, window profile, pipe, plumbing and conduit fixtures. PVC is commonly used as the insulation on electric wires[5]. Frequently in applications where smoke is a major hazard (notably in tunnels) PVC-free LSOH (low-smoke, zero-halogen) cable insulation is used.
+In flat sheet form, polyvinyl chloride is often expanded to create voids in the material, providing additional thickness without additional weight. These sheets and films are used to produce a wide variety of commercial signage products. The unplasticized polyvinyl chloride (uPVC) is being used in the building industry as a low maintenance material, particularly in the UK and in the USA, where it is known as vinyl. The same material has almost entirely replaced the use of cast iron for plumbing and drainage, being used for waste pipes, drainpipes, gutters and down pipes[5].
+The recycling of PVC can be performed in different ways. Some PVC manufacturers have vinyl recycling programs, recycling both manufacturing waste back into their products, as well as post consumer PVC construction materials to reduce the load on landfills. Another alternative to
+Introduction
+Worldwide, extruder lines are the largest converters of plastics and can be considered the most important production machinery in the plastic industry. Commercially, extrusion lines are target to give advantages with regard to operating cost (output per hour). It is possible to produce throughout extrusion films, sheets, profiles, pipes, tubes, rods, wire coverings, coatings, filaments, blown shapes and many others. Pipes are one of the most important parts made by extrusion, and it has a wide range of applications, especially in the industry. The two main reasons that make them attractive to the processors and markets are their almost unlimited range of applications and their continuous production capabilities to meet new market challenges[1].
+The production of thermoplastic pipe systems is a major industry which accounts for a significant volume of polymers. Use of plastics materials by the building industry represents the second largest worldwide market for polymers. For pipe production this amount to a total market demands of nearly 3 million tons in Europe for 2000’s[2].
+Plastic pipes started commercial production during the late 1930’s. There are different definitions that are usually associated with the different industries (plumbing, gas transmission lines, beverages, medical, mining, etc.). The most known and acceptable is that pipe is a rigid, hollow, long and larger piece in diameter than tubes[1]. Tubings are basically the same except they are flexible and smaller in diameter with thin walls up to 6 in[3].
+This paper covers the production of PVC pipes made by extrusion, a market study and the machinery and equipments needed for a PVC extrusion line.
+Applications and Market of PVC for Piping Industry
+Johnny De N. Martins, Estevão Freire
+Departamento de Engenharia Química, UCS
+Henry Hemadipour
+Kansas Technology Center, Pittsburg State University, USA
+Abstract: The use of plastic materials by the piping industry accounts for a significant volume of polymers. In this segment PVC represents the largest worldwide market for plastics. PVC is often used in plastic pressure pipe systems for pipelines in the water and sewer industries because of its inexpensive nature and flexibility. Pipes and fittings constitute the largest volume application at 40% of the marketplace. This paper discusses the piping extrusion process and the worldwide PVC market, emphasizing the Brazilian market. It is also presented a case study including an overall cost calculation for making an extrusion line for PVC piping.
+Keywords: PVC, piping industry, market, extrusion process.
+Martins, J. N. et al. - Applications and market of PVC for piping industry
+Polímeros: Ciência e Tecnologia, vol. 19, nº 1, p. 58-62, 2009 59
+Other polymers
+Vinyl polymers and ABS does not show difficult to melt, having properties superior to the pipe material when proper bonding procedure are used[1]. HDPE is used in various applications, such as pressurized gas and water pipelines that require high mechanical strength. Polyethylene requires operation at the lowest possible melt temperatures while maintaining a high level of thermal-mechanical homogeneity in the melt[1]. Polyamide is extruded at a low melt temperature as possible to provide sufficient melt viscosity and to minimize thermal degradation; this makes polyamide difficult to process and add additional costs to the production[1].
+Thermoplastic polyesters can provide toughness, flexibility, and low temperature properties to the pipes. The control of the melt temperature is important; if too high it can reduce the melt strength significantly, the result will be a irregular wall thickness. If the temperature is too low, it can result in a poor tube finishing, uneven dimensions, and weld lines. This temperature control also means difficulty of production and elevated costs in machinery and auxiliary equipments[1].
+UHMWPE can be used when traditional plastics resins are unable to meet performance requirements. Their significant properties include exceptional high chemical resistance, corrosion resistance, environmental stress crack resistance, and abrasion resistance. However this material has high costs and need an extensive process conditions control[1].
+Pipes Extrusion Process
+Pipe is a tube or hollow cylinder for the conveyance of fluid. The terms “pipe” and “tubing” are almost interchangeable. “Tube” is often made to custom sizes and may have more specific sizes and tolerances than pipe, depending on the application. The term “tubing” can also be applied to tubes of a non-cylindrical nature (i.e. square tubing). The term “tubing” is more widely used in the USA and “pipe” elsewhere in the world[10].
+Pipe may be specified by standard pipe size designations, such as Nominal Pipe Size (in the US), or by nominal, outside, or inside diameter and wall thickness. Many industrial and government standards exist for the production of pipe and tubing[11].
+Most pipes are made through extrusion, in-line with the direction of extrusion, die, sizing or calibrating device or tank, water cooling tank, conveyor, and cutter, if needed, and take off equipment at the end of the line. The line could include a marking device or a testing device. An important requirement is to cool the extrudate rather fast near the die while keeping control of dimensions and properties[7].
+Included in the processes are various techniques to control the dimensions/sizes that are either free drawn melts (usually for the small diameter tubes) or sizing features. The total cost of producing the pipe could include material costs of up to 80%. The goal is always to get a tighter tolerance control to
+the landfill are incineration, however the incineration of PVC generate air pollutants such as HCl and dioxine[6]. Table 1 shows the most common properties of the rigid PVC.
+Material Choice for Piping
+The choice for a given material to use in piping is limited by performance, installation, and maintenance requirements, as well as by the availability of fittings. For applications requiring maximum joint strength and chemical resistance most thermoplastics can be used, but first they have to pass by a bonding process[1].
+PVC
+The most used plastic for application in extrusion is PVC. PVC dry blends allow the processor to take advantages of using their own compounding formulations that should provide costs advantages[7].
+Referring to U.S market, the material is often used in plastic pressure pipe systems for pipelines in the water and sewer industries because of its inexpensive nature and flexibility. PVC pipe plumbing is typically white, as opposed to ABS, which is commonly available in grey as well as white[8].
+Polyvinyl chloride is widely used for producing pipes. In the water distribution market it accounts for 66 percent of the market in the US, and in sanitary sewer pipe applications, it accounts for 75 percent. In February 2007, the California Building Standards Code was updated to approve the use of chlorinated polyvinyl chloride (CPVC) pipe for use in residential water supply piping systems. CPVC has been a nationally accepted material in the US since 1982; however, California has only permitted its use on a limited basis since 2001. The Department of Housing and Community Development prepared and certified an Environmental Impact Report resulting in a recommendation that the Commission adopt and approve the use of CPVC. The Commission’s vote was unanimous and CPVC was placed in the 2007 California Plumbing Code[9].
+Table 1. General properties of the rigid PVC[7].
+Property
+Value
+Density
+1380 kg/m3
+Young’s modulus
+2900-3300 MPa
+Tensile strength
+50-80 MPa
+Elongation @ break
+20-40%
+Impact strengtht
+2-5 kJ/m²
+Glass temperature
+87 °C
+Melting point
+212 °C
+Vicat temperature
+85 °C
+Heat transfer coefficient
+0.16 W/m.K
+Linear expansion coefficient
+8.10-5 /K
+Specific heat
+0.9 kJ/(kg·K)
+Water absorption
+0.04-0.4
+Martins, J. N. et al. - Applications and market of PVC for piping industry
+60 Polímeros: Ciência e Tecnologia, vol. 19, nº 1, p. 58-62, 2009
+The Table 2 below shows the most common troubleshooting in pipe extrusion.
+Market Study
+Because of the nature of the building industry, demand for pipe products tends to be cyclical, with reflections in the economy. Rapidly fluctuating polymer prices and pressure on prices from the consumer end have led to an unstable environment with producer margins being eroded. Many years of recession, notably in the construction industry, have slowed the development of the market which is plagued with overcapacity. The structure of the industry has thus been subject to considerable change and upheaval in recent years[2].
+Twenty per cent of all the resin sold in the world today, consists of PVC. It is the second most used plastics material in the world[12]. The PVC global market size in 2007 was around 32.2 million tonnes, and the forecast for 2011 is about 39 million tonnes according researched data[12]. The largest worldwide consumption market in 2007 was mainly due to U.S. and Canada, responsible for 25% of all PVC resin consumption in the world, while Brazilian market was responsible only for 2% of worldwide consumption[13]. Pipes and fittings constitute the largest volume application at 40% of the global market with profiles at 17%[2].
+The PVC consumption per capita in 2006 in Brazil was about 4 kg/habitant, a low consumption when compared to North American consumption that was about 15 kg/habitant[13].
+After many years of stagnation, Brazilian PVC market faces a very good moment, especially due to building and construction industry. The credit for housing was increased by Brazilian Government from $ 2,5 billion to $ 5,1 billion in order to reduce the housing deficit, 350,000 houses were
+reduce material consumption. Dimensional and/or thickness calibrating disks of different designs are used.
+A combination of the melt properties, rate of the line speed, internal air pressure, and rate of cooling influences the size of the tube. The melt drawdown ratio from the die into the water cooling trough is directly related to the final size of the tube. Depending on the plastics being processed, the ratio ranges from 4/1 to 10/1. Using low ratios helps to minimize extruded-in stresses, which can lead to problems related to shrinking and stress cracking[7].
+Depending on the characteristics of the plastics being processed, shrinkage can occur within 24 hours period after leaving the processing line. The tube or pipe may also be subjected to annealing and other post conditions that could affect the degree of shrinkage.
+There are many different ways pipe and tube products used in moving liquids, gases, solids, and so forth. They can be shaped to provide decorations, safety supports, and so on[7].
+Steps to reduce the cost to process plastic pipes include:
+1) Operate to minimize outer diameter (OD) and internal diameter (ID) tolerances;
+2) Improve in pipe quality and properties via studying gains with compounding ingredients and blending procedures used;
+3) Reduce set-up time by means of start-up aids and automation systems;
+4) Develop savings in electricity consumption by the optimization of the extruder; and
+5) Use of efficient dies, cooling tanks, pullers, and take-off equipment.
+The tolerance control of pullers is critical to minimizing OD and ID dimensions, particularly the smaller tube sizes. A very slight variation in the puller speed can drastically influence their dimensions and waste of plastics.
+Table 2. Common troubleshooting in pipe extrusion[1].
+Problem
+Cause
+Solution
+Wavy inside surface
+Melt temperature too low
+Low lubricant level
+Pulsating drawdown
+Increase set temperatures
+Correct formulation
+Check caterpillar
+Excessive extrude thickness
+Inadequate die gap
+Inadequate operating conditions
+Adjust or replace die
+Adjust melt temperatures
+Line, streaks and foreign specks
+Dirty die
+Scratched die lips
+Drag plug too close to die
+Excessive melt temperature
+Contaminated melt flow
+Clean die
+Repair die
+Correct drag-plug location
+Reduce set temperatures
+Check compound
+Sharkskin, melt fracture
+Melt temperature too low
+Friction at the die lips
+Increase the die lips temperature
+Repair die lips coating
+Modify formulation
+Extrudate velocity with a transversal component
+Unbalanced exit flow
+Temperature fluctuations in die
+Dirty die
+Modify die land geometry
+Check heaters and thermocouples
+Check set temperatures
+Martins, J. N. et al. - Applications and market of PVC for piping industry
+Polímeros: Ciência e Tecnologia, vol. 19, nº 1, p. 58-62, 2009 61
+extrusion process cost about $ 6,000. The specifications of a cooling tank should consider the following aspects[15].
+• Welded stainless steel construction;
+• Non-driven stainless steel support rollers;
+• Alternate driven conveyors;
+• Circulation system with reservoir;
+• High efficiency quad spray manifolds;
+• Self contained circulation systems;
+• Leak proof recessed lid design;
+• In-line filters and separators; and
+• Casters and adjustable floor jacks.
+Essential auxiliary equipment in a pipe extrusion line is a haul-off unit. The haul-off unit grips the pipe over a long length and pulls it at a constant speed. The haul-off consists of a number of pulling belts around the pipe. The pulling belts, which are located under the extrusion axis, are mechanically adjustable. The pulling belts, which are located above the extrusion axis, are driven pneumatically. This equipment usually costs about $ 7,000[15].
+PVC pipe is a big and a very competitive market, so quality and profitability have been the most important requirement for years. The wall thickness of the pipe is the most important factor to be considered in a pipe production, that’s why a wall thickness ultrasonic measure control (UMC) can be attached to the extruder to do this measurement. The wall thickness ultrasonic control is needed to maintain the high
+financed last year and 560,000 are expected to be in 2010[13]. Tables 3 and 4 show the annual consumption in Brazil from 1995 to 2007 and the market segmentation respectively.
+Illustration of a PVC Cost Production for Piping
+Machine
+A typical extruder used in the processing of PVC pipes cost between $ 300,000 and $ 500,000. This model considers a typical extruder with the following characteristics[14].
+• Co-rotating Twin screw extruder, approximately 36:1 L/D ratio;
+• Electrically heated, water cooled in the four zones, side vented barrel;
+• Closed loop system with two pumps, two tanks and two heat exchangers;
+• Water cooled feed throat, no hopper; and
+• 250 HP, 500 V, 1750/2300 rpm DC motor through a reducer.
+Auxiliary equipments
+A typical pipe line needs some auxiliary equipment besides the extruder used for the work. A cooling tank is indispensable in any extrusion line. A typical cooling tank for pipe
+Table 3. Annual consumption in Brazil.
+Year
+Production (mil tonnes)
+Importation (mil tonnes)
+Exportations (mil tonnes)
+Real consumption (mil tonnes)
+Annual growth (%)
+1995
+581,332
+63,654
+146,743
+498,243
+-
+1996
+626,959
+82,548
+132,573
+576,934
+15.8
+1997
+631,851
+61,471
+69,482
+623,840
+8.1
+1998
+632,267
+122,673
+42,500
+712,440
+14.2
+1999
+658,471
+62,889
+59,696
+661,664
+7.1
+2000
+648,199
+117,847
+34,904
+731,142
+10.5
+2001
+538,091
+129,166
+46,759
+620,498
+15.1
+2002
+602,458
+141,852
+55,469
+688,841
+11.0
+2003
+604,088
+86,397
+86,865
+603,620
+12.4
+2004
+629,747
+94,521
+50,235
+674,033
+11.7
+2005
+640,319
+119,491
+65,632
+694,178
+3.0
+2006
+676,263
+126,647
+35,617
+767,292
+10.5
+2007
+686,464
+176,748
+43,211
+820,001
+6.9
+Table 4. Market segmentation in Brazil.
+Product
+1997 (%)
+1998 (%)
+1999 (%)
+2000 (%)
+2001 (%)
+2002 (%)
+2003 (%)
+2004 (%)
+2005 (%)
+2006 (%)
+Piping
+54.4
+57.6
+52.2
+52.5
+51
+51.2
+46.4
+44.4
+43.3
+44.2
+Films and bottles
+48
+6.3
+8.4
+8.5
+9
+5
+4.5
+5.1
+6.6
+5.7
+Construction industry
+3.5
+3.8
+8.1
+8.8
+10.5
+10
+11.9
+12.3
+13.1
+14
+Plates and sheets
+16.3
+13.5
+10.9
+11.8
+12
+13.1
+14.7
+16
+16.5
+16.2
+Footwear
+6.5
+6.9
+6.3
+5.8
+5.5
+7.2
+7.9
+8.4
+7.1
+7.8
+Wires and cables
+7
+7.6
+7.6
+7.8
+7.5
+7.3
+6.7
+5.5
+5.3
+4.7
+Hoses
+-
+-
+-
+-
+-
+-
+-
+-
+3.1
+2.6
+Others
+7.5
+6.3
+6.5
+4.8
+4.5
+6.2
+7.9
+8.3
+5.2
+4.8
+Total
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+Martins, J. N. et al. - Applications and market of PVC for piping industry
+62 Polímeros: Ciência e Tecnologia, vol. 19, nº 1, p. 58-62, 2009
+increases the cost of production due the high price of this additives.
+The costs of production are elevated due to the requirement of an extruder capable of high production, the cooling tank, and mainly due to the necessity of a system to measure and adjust the diameter of the pipe according to standards used in its applications.
+References
+1. Rosato, D. V. - “Extruding Plastics- Practical Processing Handbook”, First edition, Thomson Science Publication, New York, (1998).
+2. http://www.researchandmarkets.com (consulted in October 2007).
+3. Farshad, M. - Polymer Testing 23, p.967-972 (2004).
+4. Galloway, F. M. - Fire Mater. 15, p.181-189 (1992).
+5. Al-Malack, H. M. - Journal Hazardous Materials 82, p.263-274 (2001).
+6. Kim, S. - Waste Management. 21, p.609-616 (2001).
+7. Titow, W. V. - “PVC Technology Handbook”, Elsevier Applied Science Publications, London, (1984).
+8. http://www.vinylbydesign.com (consulted in October 2007).
+9. http://www.plasticsnews.com (consulted in October 2007).
+10. McCauley, J. C.; Heald, R. & Hussain, I. M. - “Machinery’s Handbook”, Industrial Press Inc, New York, (2000).
+11. Sarvetnick, H. - Polyvinyl chloride, Polytechnical services, New York, (1979).
+12. Blackburn, M. - “Global PVC Market”, in: Anais do 2° Congresso Brasileiro do PVC, São Paulo Jun (2007).
+13. Thiehi, C. - “South American PVC Market”, in: Anais do 2° Congresso Brasileiro do PVC, São Paulo Jun (2007).
+14. http://www.aaronequipment.com (consulted in September 2007).
+15. www.esi-extrusion.com (consulted in November 2007).
+16. http://www.kwhtech.com (consulted in October 2007).
+17. Yarahmadia, N.; Jakubowicza, I. & Hjertberg, T. - Polymer Degrad. and Stabil. 82, p.59-72 (2003).
+18. Pita, V.; Sampaio, E. & Monteiro, E. - Polymer Testing 21, p.545-550 (2002).
+19. Cadogan, D. - “Plasticisers of Today and Tomorrow- An Alternative” in: Anais do 2° Congresso Brasileiro do PVC, São Paulo Jun (2007).
+Enviado: 19/05/08Reenviado: 23/10/08Aceito: 30/10/08
+and stable product quality and to minimize specific raw material consumption.
+The UMC controls the following operations and related parameters[15].
+• metric weight (haul-off /extruder);
+• minimum wall thickness (haul-off);
+• wall thickness profile (die head centering);
+• diameter (vacuum);
+• extruder/start-up ramps;
+• component feed; and
+• Co-extrusion.
+At the end of the extrusion line is necessary to have a traveling cut-off saw in order to cut the pipes produced into the length required. The traveling cut-off saw for a typical pipe extrusion line can be an automatic traveling cut off saw. The average cost for this equipment is $ 4,500[16]. Therefore, the average total cost of auxiliary equipments in an extrusion pipe lines is $ 27,500.
+Materials
+The average price of PVC resin is about $ 0.72 per pound. But as it is known PVC cannot be processed without use of plasticizers and heat stabilizer[17]. Many additives such as plasticizers, impact modifiers, processing aids, fillers, lubricants and stabilizers have a decisive importance for the properties of PVC. It is sometimes difficult to make unplasticized PVC flow smoothly through the processing equipment and produce homogeneous products[17]. The addition of plasticizers to a PVC formulation decreases many mechanical properties of the PVC product (hardness, tensile strength, modulus, etc.); however, low-temperature flexibility, elongation, and the ease of processing are all improved[18].
+Generally phthalate, adipate and polymeric plasticizers are used in the formulation of PVC. Usually, the most used plasticizers cost approximately $ 2.00 per pound. A very common PVC plasticizer like liquid butyltin carboxylate or Ba/Zn liquids alloys has an average cost of approximately $ 10.00 per pound[19].
+Conclusions
+The production of thermoplastic pipe systems is a major industry which accounts for a significant volume of polymers. The production of PVC pipes is extremely important to this industry, since PVC pipes is widely used, especially in water pipelines, and this industry will continually growing throughout the years.
+The extrusion process requires some adjustments, mainly in terms of cooling system, die and resin preparation. PVC requires special attention because, it cannot be processed without the use of plasticizers and heat stabilizers, which
+View publication stats
